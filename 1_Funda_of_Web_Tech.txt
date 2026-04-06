@@ -1,0 +1,92 @@
+MEAN Stack
+    >> M → MongoDB (Database)
+    >> E → Express.js (Backend framework)
+    >> A → AngularJS (Frontend framework)
+    >> N → Node.js (Runtime environment)
+
+Three Pillars of Web Development
+    >> HTML → (Hyper Text Markup Language) Structure of web page
+    >> CSS → (Cascading Style Sheets) Styling (colors, layout, design)
+    >> JS →  (JavaScript)  → Logic & interactivity
+
+Other Stack
+    >> MEAN, MERN, Java Fullstack
+
+web Development
+   >> Bulding/Developers Team
+   >> Testing Team(Manual or Automated Testing)
+   >> Hosting Team (Devops Team)
+   >> Maintenance Team/Support Team
+
+SDLC(Softare Development Life Cycle):
+    >> Waterfall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incermental Model
+    >> V Shaped Model
+    >> RAD (Rapid Application Development)
+
+URL (Uniform Resource Locator)
+    https://www.instagram.com/
+    https://education.rohanAcademy.edu/Fullstack
+
+    https: Protocal
+    rohanAcademy: Server/Domain Name
+    education: Sub-Domain
+    .edu: TLD (Top level Domain)
+    Fullstack: Path/Location
+
+Protocal:
+    >> Set of rules/instructions
+        http  : Hyper Text Transfer Protocal
+        https : Hyper Text Transfer Protocal Secure
+        tcp   : Transmission Control Protocal
+        udp   : User Datagram Protocal
+        smtp  : Simple Mail Transferc Protocal
+        ftp   : File Transfer Protocal
+        ip    : Internet Protocal (ipv4 & ipv6)
+
+            >> Clint/Web page  ------(uname & upwd) --------> instagram Server
+            >> SSL (Secure Socket layer )
+
+
+Server/Domain Name: 
+    >> Unique Identifier
+        >> Eg: Google, Amazon
+
+Sub-Domain Name:
+    >> gMeet
+    >> gMaps
+    >> gDrive
+    >> Gmail
+    >> gFiles
+    >> gChrome
+    >> gClandar
+    >> gPay
+
+
+TLD (Top level Domain):
+    Amazon.in (India)
+    Amazon.com (commercial)
+    Amazon.edu (education)
+    Amazon.org (organsisation)
+    Amazon.uk (united kingdoms)
+
+
+Bisleri
+Byasleri
+Bliseri
+Bilsleri
+Bislari
+
+ofline Editor
+    >> Notepad
+    >> Notepad++
+    >> Subline
+    >> Open Brackets
+    >> VS Code
+
+Online Editors
+    >> CodeSandbox
+    >> Codespace

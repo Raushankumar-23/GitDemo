@@ -1,0 +1,38 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+now v4
+
+
+>> It is distributed (on Cloud)
+>> Collobration
+>> Tracking Changes
+>> Recovery
+
+https://git-scm.com/downloads
+BitBucket
+GitLabs
+GitPad
+
+
+    >> For ist time to configure github in our systems
+    git config --global user.name "Raushankumar-23"
+    git config --global user.email "raushan.engineer23@gmail.com"
+
+    git config --global color.ui auto
+
+    Mandatory Commands:
+    >> git init
+    >> git remote add origin https://github.com/Raushankumar-23/GitDemo.git
+
+
+    git pull origin main
+    git status
+
+    git add .
+    git status
+    git commit -m "commit message"
+    git push
+
